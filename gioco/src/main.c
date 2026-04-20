@@ -34,5 +34,17 @@ int main(){
     DrawTexture(backgrounds[i], positions[i], 0, WHITE);
 }
 
+	
 	}
+	
+}
+int* DAMMILEPOSIZIONI(){
+	int pos[6];
+	for(int i=0;i<6;i++){
+		int a=rand()%6;
+		switch(a){
+	case 0:
+
+}
+}
 }
